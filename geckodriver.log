@@ -1,0 +1,663 @@
+1669779137579	geckodriver	INFO	Listening on 127.0.0.1:2248
+1669779140673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "2249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileGuWkfV"
+*** You are running in headless mode.
+1669779141172	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileGuWkfV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2249/devtools/browser/f5fe9163-300a-4205-a453-1f9f04e64e88
+1669779142430	Marionette	INFO	Listening on port 2273
+Read port: 2273
+1669779142542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779288801	geckodriver	INFO	Listening on 127.0.0.1:2562
+1669779291858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "2563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileJXJ5N7"
+*** You are running in headless mode.
+1669779292283	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileJXJ5N7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2563/devtools/browser/3ddf61ed-b429-4a95-9ccf-54fe2e1f57c1
+1669779293517	Marionette	INFO	Listening on port 2584
+Read port: 2584
+1669779293629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779615242	geckodriver	INFO	Listening on 127.0.0.1:2869
+1669779618288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "2870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilehxG6TF"
+*** You are running in headless mode.
+1669779618663	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilehxG6TF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2870/devtools/browser/cd288894-2613-4263-ad76-bbd7d85433c5
+1669779619881	Marionette	INFO	Listening on port 2894
+Read port: 2894
+1669779619943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779662974	geckodriver	INFO	Listening on 127.0.0.1:3123
+1669779666024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileQ3on6t"
+*** You are running in headless mode.
+1669779666408	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileQ3on6t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3124/devtools/browser/15275fa2-c605-439e-aa00-9c63ba0643d3
+1669779667490	Marionette	INFO	Listening on port 3146
+Read port: 3146
+1669779667574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779698178	geckodriver	INFO	Listening on 127.0.0.1:3327
+1669779701242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile3QlEdf"
+*** You are running in headless mode.
+1669779701637	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile3QlEdf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3328/devtools/browser/b07f8b67-6297-4b15-9bbe-16cacb1ac66d
+1669779702644	Marionette	INFO	Listening on port 3351
+Read port: 3351
+1669779702675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779747684	geckodriver	INFO	Listening on 127.0.0.1:3523
+1669779750738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileoUmTtN"
+*** You are running in headless mode.
+1669779751119	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileoUmTtN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3524/devtools/browser/33c8c16f-6b39-49d4-b9e0-17a58f3dfae5
+1669779752143	Marionette	INFO	Listening on port 3546
+Read port: 3546
+1669779752161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779956333	geckodriver	INFO	Listening on 127.0.0.1:3819
+1669779959360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilePB4SCr"
+*** You are running in headless mode.
+1669779959747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilePB4SCr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3820/devtools/browser/93232015-cc79-4160-8d9e-e7170d0aeb29
+1669779960725	Marionette	INFO	Listening on port 3842
+Read port: 3842
+1669779960794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/614Dmc35JwL.js?AUIClients/AmazonUIjQuery&iTPNBRLd#412402-T1.412405-T1.421597-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669779977949	geckodriver	INFO	Listening on 127.0.0.1:3990
+1669779981030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileZKLXAi"
+*** You are running in headless mode.
+1669779981439	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileZKLXAi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3991/devtools/browser/db4d6982-0eea-46af-b8d4-205ba5ac50d6
+1669779982435	Marionette	INFO	Listening on port 4012
+Read port: 4012
+1669779982465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780023801	geckodriver	INFO	Listening on 127.0.0.1:4185
+1669780026850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilecOnGji"
+*** You are running in headless mode.
+1669780027248	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilecOnGji\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4186/devtools/browser/06d2dc9b-9d7f-4233-bd99-eea217e796b6
+1669780028326	Marionette	INFO	Listening on port 4206
+Read port: 4206
+1669780028398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780083880	geckodriver	INFO	Listening on 127.0.0.1:4402
+1669780086952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileTtkPIt"
+*** You are running in headless mode.
+1669780087405	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileTtkPIt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4403/devtools/browser/fe51b0f3-f425-429d-8dfd-c36762a6c352
+1669780088547	Marionette	INFO	Listening on port 4427
+Read port: 4427
+1669780088619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780281728	geckodriver	INFO	Listening on 127.0.0.1:4681
+1669780284780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile6amgAV"
+*** You are running in headless mode.
+1669780285175	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile6amgAV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4682/devtools/browser/0d59e3d8-9c54-48e8-b1a8-2b5a4702408e
+1669780286263	Marionette	INFO	Listening on port 4705
+Read port: 4705
+1669780286323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1nruqhae353qc.cloudfront.net/primesignup/br/widget.js?_=1669780290039, line 246: TypeError: WlpInjectable.DependencyInjector is undefined
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780316242	geckodriver	INFO	Listening on 127.0.0.1:4873
+1669780334742	geckodriver	INFO	Listening on 127.0.0.1:4890
+1669780337786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileKoXSep"
+*** You are running in headless mode.
+1669780338153	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileKoXSep\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4891/devtools/browser/5224050f-bb1d-48d2-895b-fb58343e5ff6
+1669780339097	Marionette	INFO	Listening on port 4912
+Read port: 4912
+1669780339117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780426843	geckodriver	INFO	Listening on 127.0.0.1:5103
+1669780429892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile15Gl5a"
+*** You are running in headless mode.
+1669780430265	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile15Gl5a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5104/devtools/browser/4073a883-1769-4c9a-92bc-e01938578d14
+1669780431231	Marionette	INFO	Listening on port 5125
+Read port: 5125
+1669780431318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780506704	geckodriver	INFO	Listening on 127.0.0.1:5312
+1669780509756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileKh60kH"
+*** You are running in headless mode.
+1669780510143	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileKh60kH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5313/devtools/browser/0c11618f-b221-494d-8de0-b7c511f035fd
+1669780511220	Marionette	INFO	Listening on port 5336
+Read port: 5336
+1669780511294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669780661063	geckodriver	INFO	Listening on 127.0.0.1:5537
+1669780664121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileTzOOn8"
+*** You are running in headless mode.
+1669780664491	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileTzOOn8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5538/devtools/browser/492af164-63bd-4f66-9b4e-0e04a6408c03
+1669780665533	Marionette	INFO	Listening on port 5559
+Read port: 5559
+1669780665660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669781738976	geckodriver	INFO	Listening on 127.0.0.1:6295
+1669781742042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilexDeuE3"
+*** You are running in headless mode.
+1669781742436	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilexDeuE3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6296/devtools/browser/37940c21-38d7-4387-9aca-732e797982c5
+1669781743432	Marionette	INFO	Listening on port 6316
+Read port: 6316
+1669781743474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669781768735	geckodriver	INFO	Listening on 127.0.0.1:6482
+1669781771788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilendUpyJ"
+*** You are running in headless mode.
+1669781772183	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilendUpyJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6483/devtools/browser/bf741918-b3d0-4eb4-8048-eb2a56d6e4df
+1669781773228	Marionette	INFO	Listening on port 6504
+Read port: 6504
+1669781773334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669781855259	geckodriver	INFO	Listening on 127.0.0.1:6719
+1669781858314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileCkxfaH"
+1669782066786	geckodriver	INFO	Listening on 127.0.0.1:6792
+1669782069808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile10xOLi"
+*** You are running in headless mode.
+1669782070175	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile10xOLi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6793/devtools/browser/eb180a57-8237-4f4c-88ec-927d22e40994
+1669782071103	Marionette	INFO	Listening on port 6815
+Read port: 6815
+1669782071132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782128035	geckodriver	INFO	Listening on 127.0.0.1:6967
+1669782131098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile8BN7gI"
+*** You are running in headless mode.
+1669782131465	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile8BN7gI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6968/devtools/browser/d3e2b3a4-f7e3-4a4f-9b3c-92dd40a79e56
+1669782132417	Marionette	INFO	Listening on port 6992
+Read port: 6992
+1669782132525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782252792	geckodriver	INFO	Listening on 127.0.0.1:7214
+1669782255846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "7215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilehMR2PV"
+*** You are running in headless mode.
+1669782256220	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilehMR2PV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7215/devtools/browser/49856d82-d353-4b69-b515-84e1e826689d
+1669782257220	Marionette	INFO	Listening on port 7236
+Read port: 7236
+1669782257285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782348731	geckodriver	INFO	Listening on 127.0.0.1:7430
+1669782351772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "7431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileH5phto"
+*** You are running in headless mode.
+1669782352153	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileH5phto\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7431/devtools/browser/45aedbaa-3c23-4fc3-9284-4c3f8bdf5f78
+1669782353333	Marionette	INFO	Listening on port 7450
+Read port: 7450
+1669782353428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782366640	geckodriver	INFO	Listening on 127.0.0.1:7619
+1669782369704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "7620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileUlIsAH"
+*** You are running in headless mode.
+1669782370091	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileUlIsAH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7620/devtools/browser/9aa450e9-9f62-41c2-943f-8aa92627984e
+1669782371113	Marionette	INFO	Listening on port 7641
+Read port: 7641
+1669782371140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782542968	geckodriver	INFO	Listening on 127.0.0.1:7849
+1669782546022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "7850" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileoTSicV"
+*** You are running in headless mode.
+1669782546426	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileoTSicV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7850/devtools/browser/0ba8e5a9-cec1-4b99-b3f5-83f43b7f9ec9
+1669782547445	Marionette	INFO	Listening on port 7872
+Read port: 7872
+1669782547572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782586759	geckodriver	INFO	Listening on 127.0.0.1:8046
+1669782589825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilecDg2wk"
+*** You are running in headless mode.
+1669782590229	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilecDg2wk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8047/devtools/browser/7a8e72bb-2029-43d3-9e81-58eb20883365
+1669782591341	Marionette	INFO	Listening on port 8066
+Read port: 8066
+1669782591380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782963481	geckodriver	INFO	Listening on 127.0.0.1:8560
+1669782966532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilecPFJfm"
+*** You are running in headless mode.
+1669782966927	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilecPFJfm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8561/devtools/browser/de8fb10e-8bac-4097-b341-545f4ff1fea1
+1669782967971	Marionette	INFO	Listening on port 8581
+Read port: 8581
+1669782968081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669782991023	geckodriver	INFO	Listening on 127.0.0.1:8751
+1669782994095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofiletbh71Q"
+*** You are running in headless mode.
+1669782994589	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofiletbh71Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8752/devtools/browser/097065ad-0609-4a1d-a6e5-402a8db9f7c2
+1669782995902	Marionette	INFO	Listening on port 8775
+Read port: 8775
+1669782995969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669783012603	geckodriver	INFO	Listening on 127.0.0.1:8943
+1669783015664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileXlVnzr"
+*** You are running in headless mode.
+1669783016104	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileXlVnzr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8944/devtools/browser/c8b900f8-8f22-4770-8cb5-2875f01b7071
+1669783017276	Marionette	INFO	Listening on port 8966
+Read port: 8966
+1669783017300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669785568390	geckodriver	INFO	Listening on 127.0.0.1:13784
+1669785571424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "13785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileaRfySY"
+*** You are running in headless mode.
+1669785571823	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileaRfySY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13785/devtools/browser/de401a92-f372-48c5-957f-567464092864
+1669785572710	Marionette	INFO	Listening on port 13806
+Read port: 13806
+1669785572762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669785659301	geckodriver	INFO	Listening on 127.0.0.1:14079
+1669785662369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "14080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileYmzoZd"
+*** You are running in headless mode.
+1669785662757	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileYmzoZd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14080/devtools/browser/fac34ee2-d05a-4f1f-a92f-c0af8fd15130
+1669785663930	Marionette	INFO	Listening on port 14102
+Read port: 14102
+1669785664027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669786305983	geckodriver	INFO	Listening on 127.0.0.1:14580
+1669786309012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "14581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileZfYBoF"
+*** You are running in headless mode.
+1669786309417	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileZfYBoF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14581/devtools/browser/6a7a2e50-0823-44cf-ad90-2a0a5d2e8871
+1669786310433	Marionette	INFO	Listening on port 14605
+Read port: 14605
+1669786310457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669786432465	geckodriver	INFO	Listening on 127.0.0.1:14798
+1669786435538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "14799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile8cNybG"
+*** You are running in headless mode.
+1669786435901	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile8cNybG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14799/devtools/browser/d6a90529-2767-468f-9be2-196fc274511f
+1669786436879	Marionette	INFO	Listening on port 14820
+Read port: 14820
+1669786436969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/614Dmc35JwL.js?AUIClients/AmazonUIjQuery&iTPNBRLd#412402-T1.412405-T1.421597-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/614Dmc35JwL.js?AUIClients/AmazonUIjQuery&iTPNBRLd#412402-T1.412405-T1.421597-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669850515261	geckodriver	INFO	Listening on 127.0.0.1:50188
+1669850518337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile5yFSaE"
+*** You are running in headless mode.
+1669850518729	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile5yFSaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50189/devtools/browser/a1d807fe-a167-4553-a928-bbe8ed381bce
+1669850519770	Marionette	INFO	Listening on port 50222
+Read port: 50222
+1669850519898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857252957	geckodriver	INFO	Listening on 127.0.0.1:21395
+1669857256008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "21396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileLqCwDF"
+*** You are running in headless mode.
+1669857256437	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileLqCwDF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:21396/devtools/browser/71c1e76c-6390-4d50-bfec-1fefe71b58e4
+1669857257479	Marionette	INFO	Listening on port 21417
+Read port: 21417
+1669857257558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857402879	geckodriver	INFO	Listening on 127.0.0.1:21626
+1669857405939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "21627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilepqpb8n"
+*** You are running in headless mode.
+1669857406443	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilepqpb8n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:21627/devtools/browser/0aad6489-233d-469f-86c6-8a9e3e1141b3
+1669857407716	Marionette	INFO	Listening on port 21648
+Read port: 21648
+1669857407810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857492552	geckodriver	INFO	Listening on 127.0.0.1:21817
+1669857495592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "21818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileuSgzKC"
+*** You are running in headless mode.
+1669857496034	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileuSgzKC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:21818/devtools/browser/5fc16294-76ae-4f28-96ee-6625a80cca56
+1669857497180	Marionette	INFO	Listening on port 21837
+Read port: 21837
+1669857497244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857536740	geckodriver	INFO	Listening on 127.0.0.1:21997
+1669857539801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "21998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilewGWJkU"
+*** You are running in headless mode.
+1669857540507	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilewGWJkU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:21998/devtools/browser/8d63ea4d-438f-46ef-b028-47b5b5d56d2e
+1669857541924	Marionette	INFO	Listening on port 22020
+Read port: 22020
+1669857542011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1669857549260	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1669857618906	geckodriver	INFO	Listening on 127.0.0.1:22234
+1669857621960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "22235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofiledcHUMW"
+*** You are running in headless mode.
+1669857622465	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofiledcHUMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22235/devtools/browser/7a26cf86-47f1-4eba-9edb-2747cd74e9fb
+1669857623797	Marionette	INFO	Listening on port 22256
+Read port: 22256
+1669857623840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1nruqhae353qc.cloudfront.net/primesignup/br/widget.js?_=1669857626843, line 246: TypeError: WlpInjectable.DependencyInjector is undefined
+1669857696951	geckodriver	INFO	Listening on 127.0.0.1:22442
+1669857700009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "22443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilebUl3no"
+*** You are running in headless mode.
+1669857700461	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilebUl3no\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22443/devtools/browser/29239a58-7227-4f26-b792-e8effb2becfa
+1669857701839	Marionette	INFO	Listening on port 22465
+Read port: 22465
+1669857701882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857734346	geckodriver	INFO	Listening on 127.0.0.1:22617
+1669857737392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "22618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileXYZ3ZK"
+*** You are running in headless mode.
+1669857737964	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileXYZ3ZK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22618/devtools/browser/c60b45f9-c43c-4241-951c-dd85938d763f
+1669857739751	Marionette	INFO	Listening on port 22640
+Read port: 22640
+1669857739810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857781818	geckodriver	INFO	Listening on 127.0.0.1:22760
+1669857784856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "22761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileScX8z2"
+*** You are running in headless mode.
+1669857785452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileScX8z2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22761/devtools/browser/23814490-0bb9-49e5-b0cc-506880c94387
+1669857787014	Marionette	INFO	Listening on port 22782
+Read port: 22782
+1669857787064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669857819128	geckodriver	INFO	Listening on 127.0.0.1:22939
+1669857822180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "22940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileomDyA6"
+*** You are running in headless mode.
+1669857822603	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileomDyA6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:22940/devtools/browser/e90f5ab2-b3e1-48e2-88e8-9e1183780cc5
+1669857823859	Marionette	INFO	Listening on port 22961
+Read port: 22961
+1669857823953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669876494406	geckodriver	INFO	Listening on 127.0.0.1:39980
+1669876497454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "39981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilejFi9po"
+*** You are running in headless mode.
+1669876497954	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilejFi9po\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39981/devtools/browser/d3498a77-f0f9-493f-b826-f379c0c95015
+1669876499006	Marionette	INFO	Listening on port 40003
+Read port: 40003
+1669876499104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669938834313	geckodriver	INFO	Listening on 127.0.0.1:62823
+1669938837395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileUXyhYd"
+*** You are running in headless mode.
+1669938838065	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileUXyhYd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62824/devtools/browser/c3a6a469-4175-488e-9917-8288da4f2505
+1669938839348	Marionette	INFO	Listening on port 62875
+Read port: 62875
+1669938839493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669944890701	geckodriver	INFO	Listening on 127.0.0.1:6433
+1669944893768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilehWDxxg"
+*** You are running in headless mode.
+1669944894250	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilehWDxxg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6434/devtools/browser/ff89372c-a449-487f-afe2-79b04ce82715
+1669944895345	Marionette	INFO	Listening on port 6454
+Read port: 6454
+1669944895432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669948799421	geckodriver	INFO	Listening on 127.0.0.1:38943
+1669948802494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "38944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileyAgRjf"
+*** You are running in headless mode.
+1669948803400	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileyAgRjf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38944/devtools/browser/69c0d1aa-c592-4ba6-bd01-d0e962e6332b
+1669948805180	Marionette	INFO	Listening on port 38977
+Read port: 38977
+1669948805241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669952045483	geckodriver	INFO	Listening on 127.0.0.1:60262
+1669952048520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile1uUNqK"
+*** You are running in headless mode.
+1669952048922	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile1uUNqK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60263/devtools/browser/bb6bdb0a-84fc-4909-927f-3d5cf41890a0
+1669952049943	Marionette	INFO	Listening on port 60284
+Read port: 60284
+1669952050035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669952077893	geckodriver	INFO	Listening on 127.0.0.1:60446
+1669952080949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileUNHJKs"
+*** You are running in headless mode.
+1669952081343	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileUNHJKs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60447/devtools/browser/546985b3-6d05-45c0-a61b-5251b4d84ee0
+1669952082404	Marionette	INFO	Listening on port 60467
+Read port: 60467
+1669952082506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669957901274	geckodriver	INFO	Listening on 127.0.0.1:59247
+1669957904327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileyJEuYj"
+*** You are running in headless mode.
+1669957904809	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileyJEuYj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59248/devtools/browser/1d67080e-ce38-40b1-8d71-01443b561a99
+1669957905993	Marionette	INFO	Listening on port 59272
+Read port: 59272
+1669957906091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669960788708	geckodriver	INFO	Listening on 127.0.0.1:59850
+1669960791768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile6zYS7D"
+*** You are running in headless mode.
+1669960792256	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile6zYS7D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59851/devtools/browser/1e5b94f3-bccb-41a8-9a02-1e1490d396fb
+1669960794315	Marionette	INFO	Listening on port 59873
+Read port: 59873
+1669960794438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1669995751704	geckodriver	INFO	Listening on 127.0.0.1:4043
+1669995754794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileXsMPHn"
+*** You are running in headless mode.
+1669995755217	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileXsMPHn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4044/devtools/browser/56c46421-b73a-460b-9da2-5c944d4bcf8f
+1669995756298	Marionette	INFO	Listening on port 4065
+Read port: 4065
+1669995756337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670019620935	geckodriver	INFO	Listening on 127.0.0.1:24194
+1670019624013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "24195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile1RhEzO"
+*** You are running in headless mode.
+1670019624603	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile1RhEzO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:24195/devtools/browser/8ebe1f0a-5967-4f68-8917-fa236244b729
+1670019625940	Marionette	INFO	Listening on port 24248
+Read port: 24248
+1670019625999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670022663623	geckodriver	INFO	Listening on 127.0.0.1:62168
+1670022666706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileipW165"
+*** You are running in headless mode.
+1670022667245	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileipW165\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62169/devtools/browser/c4162821-6ee5-486d-82b9-620035a85010
+1670022668360	Marionette	INFO	Listening on port 62188
+Read port: 62188
+1670022668480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670045383805	geckodriver	INFO	Listening on 127.0.0.1:59213
+1670045386844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile5U8kT4"
+*** You are running in headless mode.
+1670045387291	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofile5U8kT4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59214/devtools/browser/78061669-38a3-4fb0-ba5c-ae5cfe9aaa18
+1670045388579	Marionette	INFO	Listening on port 59242
+Read port: 59242
+1670045388702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/614Dmc35JwL.js?AUIClients/AmazonUIjQuery&iTPNBRLd#412402-T1.412405-T1.421597-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://m.media-amazon.com/images/I/614Dmc35JwL.js?AUIClients/AmazonUIjQuery&iTPNBRLd#412402-T1.412405-T1.421597-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670177849280	geckodriver	INFO	Listening on 127.0.0.1:1876
+1670177852353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "1877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileMwFb5D"
+*** You are running in headless mode.
+1670177852833	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileMwFb5D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1877/devtools/browser/8c3ca7dd-8cad-488d-9914-3b0db5cfd680
+1670177853896	Marionette	INFO	Listening on port 1899
+Read port: 1899
+1670177854014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670188184684	geckodriver	INFO	Listening on 127.0.0.1:57714
+1670188187913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileeUsi2D"
+*** You are running in headless mode.
+1670188189015	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileeUsi2D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57715/devtools/browser/e9355b0c-f9fc-49de-ad8e-2e9cf690b2fa
+1670188191265	Marionette	INFO	Listening on port 57749
+Read port: 57749
+1670188191459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1nruqhae353qc.cloudfront.net/primesignup/br/widget.js?_=1670188194948, line 246: TypeError: WlpInjectable.DependencyInjector is undefined
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670295209004	geckodriver	INFO	Listening on 127.0.0.1:19538
+1670295212073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "19539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilevXNRDe"
+*** You are running in headless mode.
+1670295212621	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofilevXNRDe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19539/devtools/browser/773e0736-f92f-4bd1-992d-74cd19aa9bce
+1670295214140	Marionette	INFO	Listening on port 19562
+Read port: 19562
+1670295214275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1670370196920	geckodriver	INFO	Listening on 127.0.0.1:34596
+1670370200008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "34597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileRLfvNq"
+*** You are running in headless mode.
+1670370200410	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileRLfvNq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34597/devtools/browser/d644ebfa-28f0-49c0-8a1d-625d1c79c52c
+1670370201455	Marionette	INFO	Listening on port 34618
+Read port: 34618
+1670370201574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670370205416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670370205417	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\gabri\AppData\Local\Temp\rust_mozprofileRLfvNq\bookmarkbackups\bookmarks-2022-12-06.jsonlz4) because it does not exist
+1670379223357	geckodriver	INFO	Listening on 127.0.0.1:57395
+1670379226440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileAwAA8J"
+*** You are running in headless mode.
+1670379227498	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileAwAA8J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57396/devtools/browser/463b4912-f551-4efd-9943-0d31a6e34519
+1670379230081	Marionette	INFO	Listening on port 57420
+Read port: 57420
+1670379230166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/I/61NeHXhGwSL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
